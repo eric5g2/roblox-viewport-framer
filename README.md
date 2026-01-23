@@ -1,3 +1,6 @@
+# Disclaimer 
+This is a project I made for fun, using : GetboundingBox is faster :) 
+
 # roblox-viewport-framer
 A simple plug and play module for framing objects in a viewport frame
 
